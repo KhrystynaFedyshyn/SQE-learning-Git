@@ -1,3 +1,0 @@
-arrows2.txt
-The ship glides gently on the waves
-As day turns into night
